@@ -24,8 +24,8 @@ The face module of OpenCv is used for implementing Fisherfaces and Local Binary 
 
 ### Installing
 
-The steps to install OpenCV with the extra module can be found here(https://github.com/opencv/opencv_contrib).
-The project also requires Tkinter(https://docs.python.org/2/library/tkinter.html) and Numpy(http://www.numpy.org/).
+The steps to install OpenCV with the extra module can be found [here](https://github.com/opencv/opencv_contrib).
+The project also requires [Tkinter](https://docs.python.org/2/library/tkinter.html) and [Numpy](http://www.numpy.org/).
 
 
 ## Built With
@@ -40,7 +40,7 @@ The project also requires Tkinter(https://docs.python.org/2/library/tkinter.html
 * **Shivangi Singh**
 * **Harshit Rastogi**
 * **Kartikeya Mishra**
-* **Akash Unni **
+* **Akash Unni**
 
 
 ## License
@@ -53,6 +53,6 @@ The following blogs helped in coding up this project:
 * http://hanzratech.in/2015/02/03/face-recognition-using-opencv.html
 
 Refer the following papers for understanding the algorithms used:
-* Rapid Object Detection Using Boosted Cascade of Simple Features(https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
-* Eigenfaces vs Fisherfaces: Recognition using Class Specific Linear Projection(http://www.face-rec.org/algorithms/LDA/belhumeur96eigenfaces.pdf)
-* Local Binary Patterns and Its Application to FacialImage Analysis: A Survey(http://liris.cnrs.fr/Documents/Liris-5004.pdf).
+* [Rapid Object Detection Using Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
+* [Eigenfaces vs Fisherfaces: Recognition using Class Specific Linear Projection](http://www.face-rec.org/algorithms/LDA/belhumeur96eigenfaces.pdf)
+* [Local Binary Patterns and Its Application to FacialImage Analysis: A Survey](http://liris.cnrs.fr/Documents/Liris-5004.pdf).
