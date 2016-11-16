@@ -55,4 +55,4 @@ The following blogs helped in coding up this project:
 Refer the following papers for understanding the algorithms used:
 * [Rapid Object Detection Using Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 * [Eigenfaces vs Fisherfaces: Recognition using Class Specific Linear Projection](http://www.face-rec.org/algorithms/LDA/belhumeur96eigenfaces.pdf)
-* [Local Binary Patterns and Its Application to FacialImage Analysis: A Survey](http://liris.cnrs.fr/Documents/Liris-5004.pdf).
+* [Local Binary Patterns and Its Application to Facial Image Analysis: A Survey](http://liris.cnrs.fr/Documents/Liris-5004.pdf).
